@@ -6,7 +6,7 @@ PC
 Anaconda - Python 3.7
 ## Algorithm: 
 ### Step 1:
-Use the function Circulate
+Use the function Circulate.
 
 ### Step 2: 
 Assign variables into List.
